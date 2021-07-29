@@ -16,4 +16,6 @@ This project is created to practice with React Lifecycle.
 
 ▶ The colors of the circle showing the score change color and the smileys move if you hover the mouse over them.
 
+▶ The uuid npm library is also used so that each joke has a unique key.
+
 ▶ Deployment URL: https://pdelbarrio.github.io/reactjokes/
