@@ -4,7 +4,7 @@ This project is created to practice with React Lifecycle.
 
 ## CheeZJokes App
 
-▶ When the page loads, it should fetch 10 jokes from the API of https://icanhazdadjoke.com/api
+▶ When the page loads, it should fetch 10 jokes from the API of https://icanhazdadjoke.com/api with the help of axios and using async await.
 
 ▶ Each time you click on the button 10 new jokes will be shown, but if there is any repeated joke, it will not be shown. 
 
